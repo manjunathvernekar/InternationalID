@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13406" started-at="2018-10-18T10:08:46Z" finished-at="2018-10-18T10:09:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13406" started-at="2018-10-18T10:08:46Z" finished-at="2018-10-18T10:09:00Z">
+      <class name="Pom.HomePage">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:Pom.HomePage@4883b407]" name="basePageNavigation" duration-ms="13381" started-at="2018-10-18T15:38:46Z" finished-at="2018-10-18T15:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- Pom.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
